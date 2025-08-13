@@ -1,21 +1,4 @@
-{
-  "name": "remix-token-presale",
-  "version": "1.0.0",
-  "scripts": {
-    "dev": "remix dev",
-    "build": "remix build",
-    "start": "remix-serve build"
-  },
-  "dependencies": {
-    "@remix-run/react": "^1.15.0",
-    "@remix-run/netlify": "^1.15.0",
-    "@remix-run/node": "^1.15.0",
-    "ethers": "^6.7.2",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  },
-  "devDependencies": {
-    "@remix-run/dev": "^1.15.0",
-    "@netlify/plugin-remix": "^3.0.0"
-  }
+"devDependencies": {
+  "@remix-run/dev": "^1.15.0",
+  "@netlify/plugin-remix": "^2.0.0"
 }
