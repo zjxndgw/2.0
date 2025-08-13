@@ -15,6 +15,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@remix-run/dev": "^1.15.0"
+    "@remix-run/dev": "^1.15.0",
+    "@netlify/plugin-remix": "^3.0.0"
   }
 }
